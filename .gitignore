@@ -1,0 +1,6 @@
+playwright_profile_*
+*.html
+*.jsonl
+__pycache__/
+images/full/*
+scraper_*.log
